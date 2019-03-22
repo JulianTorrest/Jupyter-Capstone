@@ -1,0 +1,9 @@
+This project is characterized by several exercises for the IBM Data Science Professional Certificate
+
+import pandas as pd
+import numpy as np 
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+name = input ("Julian Yamid Torres Torres ")
+print ("Hello Capstone Project Course!", name)
